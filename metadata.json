@@ -1,0 +1,6 @@
+{
+  "name": "ProcuraHub - Portal E-Procurement Terintegrasi",
+  "description": "Portal Sistem Pengadaan Barang & Jasa (E-Procurement) Terpadu: Requisition (PR), e-Tendering & RFQ, Vendor Management, Evaluasi Penawaran AI, Purchase Order (PO), BAST/GRN, Invoicing 3-Way Matching, dan Spend Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
